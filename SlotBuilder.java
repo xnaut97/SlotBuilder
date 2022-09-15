@@ -1,5 +1,3 @@
-package com.github.tezvn.utils.inventory;
-
 import java.util.*;
 import java.util.stream.Collectors;
 
